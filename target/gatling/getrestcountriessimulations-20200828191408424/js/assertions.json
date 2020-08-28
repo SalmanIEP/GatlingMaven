@@ -1,0 +1,10 @@
+{
+  "simulation": "RCLoadTest.Simulations.GetRestCountriesSimulations",
+  "simulationId": "getrestcountriessimulations",
+  "start": 1598642048424,
+  "description": "",
+  "scenarios": ["Create User Scenario"],
+  "assertions": [
+
+  ]
+}
